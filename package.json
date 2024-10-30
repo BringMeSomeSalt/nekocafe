@@ -1,4 +1,5 @@
 {
+  "homepage": "https://BringMeSomeSalt.github.io/nekocafe",
   "name": "auth-app",
   "version": "1.0.0",
   "description": "Authentication with jet using nodejs, expresses and mongodb",
